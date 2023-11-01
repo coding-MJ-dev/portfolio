@@ -1,3 +1,5 @@
+'use strict';
+
 // ---- HEADER ----
 // Find haeder
 const header = document.querySelector('.header');
