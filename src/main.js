@@ -7,7 +7,6 @@ const headerHeight = header.getBoundingClientRect().height;
 
  // when scrolling down, if Y axix > headerHeight, I will change the style from transparent to dark
 document.addEventListener('scroll', () => {
-  //console.log(window.scrollY);
   if (window.scrollY > headerHeight) {
     header.classList.add('header--dark');
   } else {
@@ -22,4 +21,16 @@ const home = document.querySelector('.home__content');
 const homeHeight = home.offsetHeight;
 document.addEventListener('scroll', () => {
   home.style.opacity = 1 - window.scrollY / homeHeight;
+})
+
+
+// ---- Arrow Up ----
+// the arrow button will reveal when a user scroll down the screen
+const arrow = document.querySelector('.arrow-up');
+document.addEventListener('scroll', () => {
+  if (window.scrollY > homeHeight / 2) {
+    arrow.style.opacity = 1;
+  } else {
+    arrow.style.opacity = 0;
+  }
 })

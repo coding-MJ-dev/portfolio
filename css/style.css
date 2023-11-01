@@ -134,10 +134,6 @@ button:focus {
   text-align: center;
 }
 
-.home__content{
-
-}
-
 .home__avatar {
   width: 250px;
   height: 250px;
@@ -448,6 +444,7 @@ button:focus {
   border-radius: 100%;
   text-align: center;
   box-shadow: 5px 5px 0px 0px var(--color-accent);
+  transition: opacity 300ms ease-in;
 }
 
 
