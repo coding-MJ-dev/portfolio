@@ -16,7 +16,7 @@ Git: https://github.com/coding-MJ-dev/youtube_mj
 - javascript
 - CSS (tailwind)
 
-### [micro project - Todo list] ###
+### micro project - Todo list ###
 page: https://todobymj.netlify.app/
 
 Git: https://github.com/coding-MJ-dev/todo_list
@@ -24,7 +24,7 @@ Git: https://github.com/coding-MJ-dev/todo_list
 - javascript
 - CSS
 
-### Project Egg ###
+### Embedded Project - Flight computer - Egg  ###
 Git: https://github.com/coding-MJ-dev/Dove_v2
 
 - Rocket flight computer (Avionics) build from scratch
