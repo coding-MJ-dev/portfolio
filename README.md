@@ -11,7 +11,7 @@
 ### Youtube clone coding ###
 page: https://mj-youtube.netlify.app/
 
-Git: https://github.com/coding-MJ-dev/youtube_mj
+Git: mj_youtube(https://github.com/coding-MJ-dev/youtube_mj)
 - react, react-dom, react query
 - javascript
 - CSS (tailwind)
@@ -19,22 +19,25 @@ Git: https://github.com/coding-MJ-dev/youtube_mj
 ### micro project - Todo list ###
 page: https://todobymj.netlify.app/
 
-Git: https://github.com/coding-MJ-dev/todo_list
+Git: [Todo](https://github.com/coding-MJ-dev/todo_list)
 - react
 - javascript
 - CSS
 
 ### Embedded Project - Flight computer - Egg  ###
-Git: [Dove](https://github.com/coding-MJ-dev/Egg_v1)
+Git: [Egg](https://github.com/coding-MJ-dev/Egg_v1)
 
 - Rocket flight computer (Avionics) build from scratch
 - C++ / C
+- State Machine
 - Platform IO
 
 ### Embedded Project - Flight computer - Dove  ###
-Git: https://github.com/coding-MJ-dev/Dove_v2
+Git: [Dove](https://github.com/coding-MJ-dev/Dove_public))
 
-- Rocket flight computer (Avionics) build from scratch
+- Rocket flight computer (Avionics)
 - C++ / C
-- Platform IO
+- Ejection Charge
+- LoRa radio Connection with Ground Station
+- State Machine
 
