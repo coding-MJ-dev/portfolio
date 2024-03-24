@@ -64,3 +64,12 @@ Git: [Falcon](https://github.com/coding-MJ-dev/Falcon_public)
 - State Machine
 
 
+
+### Coffee Shop Management Kiosk Program ###
+page: https://mj-youtube.netlify.app/
+
+Git: [Coffee Shop Management](https://github.com/coding-MJ-dev/CoffeKiosk)
+- C#
+- .Net Programming
+- Window GUI programming
+
