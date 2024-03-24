@@ -24,3 +24,9 @@ Git: https://github.com/coding-MJ-dev/todo_list
 - javascript
 - CSS
 
+### Project Egg ###
+Git: https://github.com/coding-MJ-dev/Dove_v2
+
+- Rocket flight computer (Avionics) build from scratch
+- C++ / C
+- Platform IO
