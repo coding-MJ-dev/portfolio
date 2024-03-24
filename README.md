@@ -66,10 +66,18 @@ Git: [Falcon](https://github.com/coding-MJ-dev/Falcon_public)
 
 
 ### Coffee Shop Management Kiosk Program ###
-page: https://mj-youtube.netlify.app/
-
 Git: [Coffee Shop Management](https://github.com/coding-MJ-dev/CoffeKiosk)
+
 - C#
 - .Net Programming
 - Window GUI programming
 
+
+
+
+### Hospital Management Program ###
+Git: [Hospital Management](https://github.com/coding-MJ-dev/HospitalManagement)
+
+- C#
+- .Net Programming
+- Window CLI programming
