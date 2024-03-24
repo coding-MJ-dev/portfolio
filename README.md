@@ -16,6 +16,9 @@ Git: [mj_youtube](https://github.com/coding-MJ-dev/youtube_mj)
 - javascript
 - CSS (tailwind)
 
+
+  
+
 ### micro project - Todo list ###
 page: https://todobymj.netlify.app/
 
@@ -23,6 +26,10 @@ Git: [Todo](https://github.com/coding-MJ-dev/todo_list)
 - react
 - javascript
 - CSS
+
+  
+
+
 
 ### Embedded Project - Flight computer - Egg  ###
 Git: [Egg](https://github.com/coding-MJ-dev/Egg_v1)
@@ -32,6 +39,9 @@ Git: [Egg](https://github.com/coding-MJ-dev/Egg_v1)
 - State Machine
 - Platform IO
 
+  
+
+
 ### Embedded Project - Flight computer - Dove  ###
 Git: [Dove](https://github.com/coding-MJ-dev/Dove_public)
 
@@ -40,4 +50,17 @@ Git: [Dove](https://github.com/coding-MJ-dev/Dove_public)
 - Ejection Charge
 - LoRa radio Connection with Ground Station
 - State Machine
+
+
+
+
+### Embedded Project - Flight computer - Falcon  ###
+Git: [Falcon](https://github.com/coding-MJ-dev/Falcon_public)
+
+- Rocket flight computer (Avionics)
+- C++ / C
+- GPS tracking
+- LoRa radio Connection with Ground Station
+- State Machine
+
 
