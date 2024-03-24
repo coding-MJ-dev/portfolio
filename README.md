@@ -25,8 +25,16 @@ Git: https://github.com/coding-MJ-dev/todo_list
 - CSS
 
 ### Embedded Project - Flight computer - Egg  ###
+Git: [https://github.com/coding-MJ-dev/Dove_v2](https://github.com/coding-MJ-dev/Egg_v1)
+
+- Rocket flight computer (Avionics) build from scratch
+- C++ / C
+- Platform IO
+
+### Embedded Project - Flight computer - Dove  ###
 Git: https://github.com/coding-MJ-dev/Dove_v2
 
 - Rocket flight computer (Avionics) build from scratch
 - C++ / C
 - Platform IO
+
