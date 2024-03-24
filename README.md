@@ -7,8 +7,8 @@
 - Contact me
 
   
-## Other portfolio website ##
-### Youtube clone coding ###
+# Other portfolio website #
+## Youtube clone coding ##
 page: https://mj-youtube.netlify.app/
 
 Git: [mj_youtube](https://github.com/coding-MJ-dev/youtube_mj)
@@ -19,7 +19,7 @@ Git: [mj_youtube](https://github.com/coding-MJ-dev/youtube_mj)
 
   
 
-### micro project - Todo list ###
+## micro project - Todo list ##
 page: https://todobymj.netlify.app/
 
 Git: [Todo](https://github.com/coding-MJ-dev/todo_list)
@@ -31,7 +31,7 @@ Git: [Todo](https://github.com/coding-MJ-dev/todo_list)
 
 
 
-### Embedded Project - Flight computer - Egg  ###
+## Embedded Project - Flight computer - Egg  ##
 Git: [Egg](https://github.com/coding-MJ-dev/Egg_v1)
 
 - Rocket flight computer (Avionics) build from scratch
@@ -42,7 +42,7 @@ Git: [Egg](https://github.com/coding-MJ-dev/Egg_v1)
   
 
 
-### Embedded Project - Flight computer - Dove  ###
+## Embedded Project - Flight computer - Dove  ##
 Git: [Dove](https://github.com/coding-MJ-dev/Dove_public)
 
 - Rocket flight computer (Avionics)
@@ -54,7 +54,7 @@ Git: [Dove](https://github.com/coding-MJ-dev/Dove_public)
 
 
 
-### Embedded Project - Flight computer - Falcon  ###
+## Embedded Project - Flight computer - Falcon  ##
 Git: [Falcon](https://github.com/coding-MJ-dev/Falcon_public)
 
 - Rocket flight computer (Avionics)
@@ -65,7 +65,7 @@ Git: [Falcon](https://github.com/coding-MJ-dev/Falcon_public)
 
 
 
-### Coffee Shop Management Kiosk Program ###
+## Coffee Shop Management Kiosk Program ##
 Git: [Coffee Shop Management](https://github.com/coding-MJ-dev/CoffeKiosk)
 
 - C#
@@ -75,7 +75,7 @@ Git: [Coffee Shop Management](https://github.com/coding-MJ-dev/CoffeKiosk)
 
 
 
-### Hospital Management Program ###
+## Hospital Management Program ##
 Git: [Hospital Management](https://github.com/coding-MJ-dev/HospitalManagement)
 
 - C#
