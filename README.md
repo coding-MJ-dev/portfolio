@@ -11,7 +11,7 @@
 ### Youtube clone coding ###
 page: https://mj-youtube.netlify.app/
 
-Git: mj_youtube(https://github.com/coding-MJ-dev/youtube_mj)
+Git: [mj_youtube](https://github.com/coding-MJ-dev/youtube_mj)
 - react, react-dom, react query
 - javascript
 - CSS (tailwind)
@@ -33,7 +33,7 @@ Git: [Egg](https://github.com/coding-MJ-dev/Egg_v1)
 - Platform IO
 
 ### Embedded Project - Flight computer - Dove  ###
-Git: [Dove](https://github.com/coding-MJ-dev/Dove_public))
+Git: [Dove](https://github.com/coding-MJ-dev/Dove_public)
 
 - Rocket flight computer (Avionics)
 - C++ / C
